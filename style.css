@@ -1,0 +1,63 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    /*background-color: #dbd8e3;
+    background-image: linear-gradient(180deg, #dbd8e3 0%, #5c5470 33%, #352f44 66%, #2a2438 100%);
+    ;
+    background-repeat: no-repeat;
+    /*height: 100vh;*/
+    height: 100vh;
+    color: rgba(68, 3, 3, 0.726);
+    box-sizing: border-box;
+    background-color: burlywood
+}
+
+.links__cabecalho{
+    margin: 3% 0% 3% 6%;
+    display: flex;
+    gap: 60px;
+
+
+}
+
+.madalena{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+}
+
+.foto__texto{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    padding: 7% 30% 10% 25%;
+    gap: 3%;
+    color: black;
+    font-size: 20px;
+}
+
+.obs{
+    padding-left: 70%;
+}
+
+.titulo__imagem__madaleno{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;padding: 7% 30% 10% 25%;
+    gap: 3%;
+    color: black;
+    font-size: 20px;
+}
+
+.footer {
+    background-color:  rgba(68, 3, 3, 0.205);
+    padding: 2%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
